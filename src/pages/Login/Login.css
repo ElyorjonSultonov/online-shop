@@ -1,0 +1,54 @@
+.login {
+  background: blueviolet;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 120px 0;
+}
+.login form {
+  width: 50%;
+  background: goldenrod;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.login form input,
+button {
+  display: block;
+  padding: 20px;
+  background: transparent;
+  border-radius: 10px;
+  width: 90%;
+  margin: 10px 0;
+  border: 2px dashed white;
+}
+.login form button {
+  border: 2px dotted white;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.login form .eye {
+  position: absolute;
+  top: 32%;
+  right: 70px;
+  font-size: 30px;
+  color: blue;
+  cursor: pointer;
+}
+
+.login .logh1 {
+  color: white;
+  padding: 30px 0;
+}
+
+.login .logh1 span {
+  color: blue;
+  cursor: pointer;
+}

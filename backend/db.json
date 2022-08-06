@@ -1,0 +1,452 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": "2",
+      "postID": "1",
+      "title": "Banan",
+      "image": "https://wallpapercave.com/wp/wp4494654.png"
+    },
+    {
+      "id": 2,
+      "price": "3",
+      "postID": "1",
+      "title": "Pear",
+      "image": "https://wallpapershome.ru/images/wallpapers/grushi-2560x1440-grushi-15350.jpg"
+    },
+    {
+      "id": 3,
+      "price": "4",
+      "postID": "1",
+      "title": "Apple",
+      "image": "https://static9.depositphotos.com/1006106/1113/i/950/depositphotos_11134474-stock-photo-apple-splash.jpg"
+    },
+    {
+      "id": 4,
+      "price": "10",
+      "postID": "1",
+      "title": "Strawberry",
+      "image": "https://images6.alphacoders.com/652/652742.jpg"
+    },
+    {
+      "id": 5,
+      "price": "1000",
+      "postID": "1",
+      "title": "Samsung",
+      "image": "https://i0.wp.com/www.androidsage.com/wp-content/uploads/2020/12/Samsung-Galaxy-S21-in-all-colors-min.jpg"
+    },
+    {
+      "id": 6,
+      "price": "1100",
+      "postID": "1",
+      "title": "Apple",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/03/green-iphone-wallpaper.jpg?quality=82&strip=all"
+    },
+    {
+      "id": 7,
+      "price": "800",
+      "postID": "1",
+      "title": "Redmi",
+      "image": "https://cdn.ytechb.com/wp-content/uploads/2022/01/Redmi-Note-11-Pro-Wallpapers.webp"
+    },
+    {
+      "id": 8,
+      "price": "900",
+      "postID": "1",
+      "title": "Huawei",
+      "image": "https://i0.wp.com/www.androidsage.com/wp-content/uploads/2020/03/opti-h.jpg"
+    },
+    {
+      "id": 9,
+      "price": "110000",
+      "postID": "1",
+      "title": "Bugatti",
+      "image": "https://images4.alphacoders.com/705/thumb-1920-705509.jpg"
+    },
+    {
+      "id": 10,
+      "price": "10000",
+      "postID": "1",
+      "title": "BMW",
+      "image": "https://i.pinimg.com/originals/20/7c/00/207c008b73fdb98c150168b5372a50f6.jpg"
+    },
+    {
+      "id": 11,
+      "price": "12000",
+      "postID": "1",
+      "title": "Mercedes",
+      "image": "https://wallpaperaccess.com/full/1815532.jpg"
+    },
+    {
+      "id": 12,
+      "price": "90000",
+      "postID": "1",
+      "title": "Audio",
+      "image": "https://cdn.wallpapersafari.com/79/53/xa8kuK.jpg"
+    }
+  ],
+  "purchases": [
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 1
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 2
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 3
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 4
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 5
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 6
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 7
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 8
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 9
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 10
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 11
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 12
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 13
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 14
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 15
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 16
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 17
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 18
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 19
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 20
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 21
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 22
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 23
+    },
+    {
+      "name": "olma",
+      "userName": "Elyor",
+      "phone": "+998979039798",
+      "count": 5,
+      "location": "Chilonzor 5 kvartal",
+      "id": 24
+    }
+  ],
+  "users": [
+    {
+      "text": "elyor",
+      "email": "33@mail.ru",
+      "password": "333",
+      "id": 1
+    },
+    {
+      "text": "1",
+      "email": "1@mail.ru",
+      "password": "11",
+      "id": 2
+    },
+    {
+      "text": "1",
+      "email": "1@msil.ru",
+      "password": "1",
+      "id": 3
+    },
+    {
+      "text": "3",
+      "email": "4@mail.ru",
+      "password": "4",
+      "id": 4
+    },
+    {
+      "text": "2",
+      "email": "2@mail.ru",
+      "password": "4",
+      "id": 5
+    },
+    {
+      "text": "",
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "text": "2",
+      "email": "3@mail.ru",
+      "password": "4",
+      "id": 7
+    },
+    {
+      "text": "",
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "text": "elyorbek",
+      "email": "elyor@mail.ru",
+      "password": "sdfa",
+      "id": 9
+    },
+    {
+      "text": "ldfskj",
+      "email": "fdas@mail.ru",
+      "password": "fasf",
+      "id": 10
+    },
+    {
+      "text": "Otabek",
+      "email": "O@mail.ru",
+      "password": "fao",
+      "id": 11
+    },
+    {
+      "name": "OTabvek",
+      "email": "oooo",
+      "parol": "123456",
+      "id": 12
+    },
+    {
+      "name": "OTabvek",
+      "email": "oooo",
+      "parol": "123456",
+      "id": 13
+    },
+    {
+      "name": "OTabvek",
+      "email": "oooo",
+      "parol": "123456",
+      "id": 14
+    },
+    {
+      "name": "OTabvek",
+      "email": "oooo",
+      "parol": "123456",
+      "id": 15
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 16
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 17
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 18
+    },
+    {
+      "text": "",
+      "email": "",
+      "password": "2345678",
+      "id": 19
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "",
+      "id": 20
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 21
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 22
+    },
+    {
+      "text": "888",
+      "email": "888@mail.ru",
+      "password": "88888",
+      "id": 23
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 24
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 25
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 26
+    },
+    {
+      "text": "a",
+      "email": "a@mail.ru",
+      "password": "a",
+      "id": 27
+    },
+    {
+      "text": "a",
+      "email": "q@mail.ru",
+      "password": "a",
+      "id": 28
+    }
+  ]
+}

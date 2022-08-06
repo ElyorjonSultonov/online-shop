@@ -1,0 +1,44 @@
+.register {
+  background: blueviolet;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 120px 0;
+}
+.register form {
+  width: 50%;
+  background: goldenrod;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.register form input,
+button {
+  display: block;
+  padding: 20px;
+  background: transparent;
+  border-radius: 10px;
+  width: 90%;
+  margin: 10px 0;
+  border: 2px dashed white;
+}
+.register form button {
+  border: 2px dotted white;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.register form .eye {
+  position: absolute;
+  top: 57%;
+  right: 70px;
+  font-size: 30px;
+  color: blue;
+  cursor: pointer;
+}

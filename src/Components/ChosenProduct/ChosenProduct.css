@@ -1,0 +1,48 @@
+.chosenProduct {
+  padding-top: 120px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 20px;
+  padding: 15px;
+  background: grey;
+  position: relative;
+}
+
+.chosenProduct .chosenImg {
+  max-width: 100%;
+  width: 100%;
+  height: 300px;
+  padding: -15px;
+}
+
+.chosenProduct .chosenBtn {
+  width: 100%;
+  font-size: 20px;
+}
+
+.chosenProduct .chosenBtnDFlex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.chosenProduct .CountBtnChosen {
+  width: 30%;
+  background: white;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+}
+.chosenProduct .deleteBtn{
+    width: 10%;
+    margin: auto;
+    position: absolute;
+    top: 20px;
+    right: 20px;    
+    z-index: 111;
+    background-color: white;
+    font-weight: bold;
+    opacity: 0.5;
+    text-shadow: 2px 2px 2px black;
+}
